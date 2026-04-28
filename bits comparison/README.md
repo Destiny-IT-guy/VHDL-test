@@ -134,6 +134,6 @@ Here is how your design should look like<br>
 
 ![iterative](photo/iterative.png)
 
-# conclusion
+# Conclusion
 
 This small project was a great introduction to VHDL and the design process. If you have a physical fpga I would suggest to synthesize your VHDL code, configure pin assignment convert it to bitstream file and program your fpga.
